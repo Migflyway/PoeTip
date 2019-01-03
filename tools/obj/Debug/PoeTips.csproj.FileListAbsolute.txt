@@ -1,0 +1,15 @@
+D:\PoeTips\tools\obj\Debug\PoeTips.csprojAssemblyReference.cache
+D:\PoeTips\tools\obj\Debug\tools.Form1.resources
+D:\PoeTips\tools\obj\Debug\tools.Form2.resources
+D:\PoeTips\tools\obj\Debug\tools.Properties.Resources.resources
+D:\PoeTips\tools\obj\Debug\PoeTips.csproj.GenerateResource.cache
+D:\PoeTips\tools\obj\Debug\PoeTips.csproj.CoreCompileInputs.cache
+D:\PoeTips\tools\bin\Debug\PoeTips.exe.config
+D:\PoeTips\tools\bin\Debug\PoeTips.exe
+D:\PoeTips\tools\bin\Debug\PoeTips.pdb
+D:\PoeTips\tools\bin\Debug\Newtonsoft.Json.dll
+D:\PoeTips\tools\bin\Debug\Newtonsoft.Json.pdb
+D:\PoeTips\tools\bin\Debug\Newtonsoft.Json.xml
+D:\PoeTips\tools\obj\Debug\PoeTips.csproj.CopyComplete
+D:\PoeTips\tools\obj\Debug\PoeTips.exe
+D:\PoeTips\tools\obj\Debug\PoeTips.pdb
